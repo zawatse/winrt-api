@@ -7,6 +7,8 @@
 public Windows.Foundation.IAsyncOperation<Windows.Foundation.Collections.IVectorView<Windows.Services.Store.StorePackageUpdate>> GetAppAndOptionalStorePackageUpdatesAsync()
 -->
 
+blabla
+
 # Windows.Services.Store.StoreContext.GetAppAndOptionalStorePackageUpdatesAsync
 
 ## -description
